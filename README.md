@@ -1,0 +1,3 @@
+REACT SKELETON
+
+npm start!
